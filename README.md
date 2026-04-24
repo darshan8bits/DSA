@@ -1,2 +1,2 @@
-DSA Problems
+DSA Problems for practice
 
